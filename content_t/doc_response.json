@@ -1,0 +1,31 @@
+{
+  "data":{
+    "table1":{
+      "type":"table",
+      "content":{
+        "Vivo":27,
+        "Tim Migração":47,
+        "Assurant":87,
+        "Bradesco":22
+      }
+    },
+    "table2":{
+      "type":"line",
+            "content":{
+        "Vivo":28,
+        "Tim Migração":48,
+        "Assurant":88,
+        "Bradesco":23
+      }
+    },
+    "table3":{
+      "type":"donut",
+            "content":{
+        "Vivo":29,
+        "Tim Migração":50,
+        "Assurant":89,
+        "Bradesco":25
+      }
+    }
+  }
+}
